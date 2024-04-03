@@ -9,7 +9,6 @@
     "ZONACOMERCIAL": "BUENOS AIRES SUR",
     "NSE": "C3",
     "scoreNOSIS": 520,
-    "PERIODO_ALTA": 202308,
     "CANT_INT": 2,
     "TITULAR": 155950
   },
@@ -23,8 +22,6 @@
     "ZONACOMERCIAL": "ROSARIO",
     "NSE": "D1",
     "scoreNOSIS": 671,
-    "PERIODO_ALTA": 202211,
-    "PERIODO_BAJA": 202305,
     "CANT_INT": 1,
     "TITULAR": 269205
   },
@@ -38,7 +35,6 @@
     "ZONACOMERCIAL": "AMBA",
     "NSE": "D2",
     "scoreNOSIS": 1,
-    "PERIODO_ALTA": 202212,
     "CANT_INT": 1,
     "TITULAR": 271232
   },
@@ -52,7 +48,6 @@
     "ZONACOMERCIAL": "AMBA",
     "NSE": "C1",
     "scoreNOSIS": 281,
-    "PERIODO_ALTA": 202307,
     "CANT_INT": 2,
     "TITULAR": 285254
   },
@@ -66,7 +61,6 @@
     "ZONACOMERCIAL": "NEA",
     "NSE": "C2",
     "scoreNOSIS": 514,
-    "PERIODO_ALTA": 202306,
     "CANT_INT": 1,
     "TITULAR": 288475
   },
@@ -80,7 +74,6 @@
     "ZONACOMERCIAL": "AMBA",
     "NSE": "D2",
     "scoreNOSIS": 557,
-    "PERIODO_ALTA": 202301,
     "CANT_INT": 1,
     "TITULAR": 319422
   },
@@ -94,7 +87,6 @@
     "ZONACOMERCIAL": "CORDOBA-CUYO",
     "NSE": "D2",
     "scoreNOSIS": 462,
-    "PERIODO_ALTA": 202301,
     "CANT_INT": 1,
     "TITULAR": 373438
   },
@@ -108,7 +100,6 @@
     "ZONACOMERCIAL": "NUCLEO",
     "NSE": "D2",
     "scoreNOSIS": 211,
-    "PERIODO_ALTA": 202211,
     "CANT_INT": 1,
     "TITULAR": 425639
   },
@@ -122,7 +113,6 @@
     "ZONACOMERCIAL": "ROSARIO",
     "NSE": "C2",
     "scoreNOSIS": 673,
-    "PERIODO_ALTA": 202310,
     "CANT_INT": 2,
     "TITULAR": 523614
   },
@@ -136,7 +126,6 @@
     "ZONACOMERCIAL": "NEA",
     "NSE": "D2",
     "scoreNOSIS": 643,
-    "PERIODO_ALTA": 202301,
     "CANT_INT": 1,
     "TITULAR": 588060
   },
@@ -150,8 +139,6 @@
     "ZONACOMERCIAL": "AMBA",
     "NSE": "C1",
     "scoreNOSIS": 686,
-    "PERIODO_ALTA": 202301,
-    "PERIODO_BAJA": 202308,
     "CANT_INT": 1,
     "TITULAR": 629420
   },
@@ -165,8 +152,6 @@
     "ZONACOMERCIAL": "PATAGONIA ANDINA",
     "NSE": "D2",
     "scoreNOSIS": 243,
-    "PERIODO_ALTA": 202211,
-    "PERIODO_BAJA": 202303,
     "CANT_INT": 1,
     "TITULAR": 671622
   },
@@ -180,8 +165,6 @@
     "ZONACOMERCIAL": "AMBA",
     "NSE": "C3",
     "scoreNOSIS": 1,
-    "PERIODO_ALTA": 202210,
-    "PERIODO_BAJA": 202310,
     "CANT_INT": 1,
     "TITULAR": 677160
   },
@@ -195,7 +178,6 @@
     "ZONACOMERCIAL": "SANTA FE CENTRO",
     "NSE": "B",
     "scoreNOSIS": 768,
-    "PERIODO_ALTA": 202210,
     "CANT_INT": 1,
     "TITULAR": 683328
   },
@@ -209,8 +191,6 @@
     "ZONACOMERCIAL": "BUENOS AIRES COSTA ATLANTICA",
     "NSE": "C3",
     "scoreNOSIS": 295,
-    "PERIODO_ALTA": 202210,
-    "PERIODO_BAJA": 202310,
     "CANT_INT": 2,
     "TITULAR": 685016
   },
@@ -224,8 +204,6 @@
     "ZONACOMERCIAL": "BUENOS AIRES COSTA ATLANTICA",
     "NSE": "C1",
     "scoreNOSIS": 181,
-    "PERIODO_ALTA": 202210,
-    "PERIODO_BAJA": 202310,
     "CANT_INT": 2,
     "TITULAR": 685016
   },
@@ -239,7 +217,6 @@
     "ZONACOMERCIAL": "LITORAL",
     "NSE": "C2",
     "scoreNOSIS": 420,
-    "PERIODO_ALTA": 202210,
     "CANT_INT": 1,
     "TITULAR": 685520
   },
@@ -253,7 +230,6 @@
     "ZONACOMERCIAL": "ROSARIO",
     "NSE": "D2",
     "scoreNOSIS": 231,
-    "PERIODO_ALTA": 202210,
     "CANT_INT": 3,
     "TITULAR": 686362
   },
@@ -267,7 +243,6 @@
     "ZONACOMERCIAL": "ROSARIO",
     "NSE": "C1",
     "scoreNOSIS": 443,
-    "PERIODO_ALTA": 202210,
     "CANT_INT": 3,
     "TITULAR": 686362
   },
@@ -281,7 +256,6 @@
     "ZONACOMERCIAL": "NUCLEO",
     "NSE": "D2",
     "scoreNOSIS": 406,
-    "PERIODO_ALTA": 202210,
     "CANT_INT": 1,
     "TITULAR": 686967
   },
@@ -295,8 +269,6 @@
     "ZONACOMERCIAL": "PATAGONIA ATLANTICA",
     "NSE": "D2",
     "scoreNOSIS": 372,
-    "PERIODO_ALTA": 202210,
-    "PERIODO_BAJA": 202304,
     "CANT_INT": 1,
     "TITULAR": 687212
   },
@@ -310,8 +282,6 @@
     "ZONACOMERCIAL": "ROSARIO",
     "NSE": "C1",
     "scoreNOSIS": 340,
-    "PERIODO_ALTA": 202211,
-    "PERIODO_BAJA": 202310,
     "CANT_INT": 1,
     "TITULAR": 689009
   }

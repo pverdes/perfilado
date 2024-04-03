@@ -11,7 +11,6 @@ perfilarJSON <- function(inputFile){  # por ejemplo: inputFile='inst/extdata/sam
 
   data <- jsonlite::read_json(inputFile, simplifyVector=TRUE)
   columnasOriginales <- colnames(data)
-  data <- calcularPermanencia(data)
   data <- calcularScoreAdmision(data)
   data <- convertirAFactor(data)
 
