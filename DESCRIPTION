@@ -1,0 +1,13 @@
+Package: perfilado
+Type: Package
+Title: Perfila clientes prediciendo probabilidad de baja temprana
+Version: 0.1.0
+Author: Pablo Verdes
+Maintainer: Pablo Verdes <pablo.verdes@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: dplyr, randomForest, caret, jsonlite
+RoxygenNote: 7.3.1
