@@ -11,6 +11,16 @@ perfilarJSON <- function(inputFile){  # por ejemplo: inputFile='inst/extdata/sam
 
   data <- jsonlite::read_json(inputFile, simplifyVector=TRUE)
   columnasOriginales <- colnames(data)
+
+  # imputar campos faltantes si los hubiera
+  data <- data %>%
+    mutate(
+      SEGMENTO = ifelse(is.na(SEGMENTO), "VOLDIR", SEGMENTO),
+      CANAL = ifelse(is.na(CANAL), "Promotor", CANAL),
+      PLAN = ifelse(is.na(PLAN), "AS204", PLAN),
+      CANT_INT = ifelse(is.na(CANT_INT), 1, CANT_INT)
+    )
+  
   data <- calcularScoreAdmision(data)
   data <- convertirAFactor(data)
 
